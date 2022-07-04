@@ -132,7 +132,8 @@ img {
 @media screen and (max-width:768px) {
 
     .container {
-        max-width: 760px;
+        /* non serve */
+        /* max-width: 760px; */
         width: auto;
     }
 
