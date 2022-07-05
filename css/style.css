@@ -151,6 +151,11 @@ img {
         padding: 2.5rem;
     }
 
+    .lessons .col img,
+    .steps .col img {
+        height: auto;
+    }
+
     .col:last-child {
         padding-bottom: 0;
     }
@@ -163,11 +168,6 @@ img {
 
     .steps {
         margin-bottom: 0;
-    }
-
-    .lessons .col img,
-    .steps .col img {
-        height: auto;
     }
 
     h1 {
